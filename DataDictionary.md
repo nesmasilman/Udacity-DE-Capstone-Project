@@ -13,7 +13,7 @@
  * Official USPS State Code: string (nullable = true) - State code
  * Official State Name: string (nullable = true) - State name
 
-# Fact Table (Inmigration Registry)
+# Fact Table (US i94 Immigration Dataset)
  * cic_id: integer (nullable = true) - A unique identifier assigned to each individual record in the dataset.
  * i94mon: integer (nullable = true) - The numeric month of the visitor's arrival in the United States.
  * i94res: integer (nullable = true) - The visitor's country of residence.
